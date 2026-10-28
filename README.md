@@ -70,7 +70,7 @@ Threat modeling · detection engineering · AI red-teaming · AppSec · identity
 Python · TypeScript · React 19 · Next.js · Django · FastAPI · PostgreSQL · Prisma / SQLAlchemy
 
 ### Systems & delivery
-Linux · Docker · CI gates · observability · backups · restore drills · release engineering · technical writing
+Linux · Docker · CI gates · observability · backups · restore drills · release engineering · developer tooling · technical writing
 
 ---
 
@@ -88,6 +88,7 @@ Led the LMS Converter team through architecture and delivery; the work was accep
 - [Synther](https://github.com/nyght-x-walker/synther) — real-time C++ synthesizer with a live spectrum visualizer
 - [Argus](https://nyght-x-walker.github.io/argus/) — ANPR operations prototype with a public UI mockup
 - [Help Heroes](https://nyght-x-walker.github.io/help-heroes-mockup/) — eight-week Design Thinking case study
+- [Devkick](https://github.com/nyght-x-walker/devkick) — Python project scaffolder with pyenv, Poetry, direnv, tests, and CI
 
 ---
 
