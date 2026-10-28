@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="250" viewBox="0 0 960 250" role="img" aria-labelledby="title desc">
+  <title id="title">Nyx — security engineer and product builder</title>
+  <desc id="desc">A terminal card typing: I build systems that prove their own integrity. Django, FastAPI, React, C++, Postgres. Currently building Axiom, Oversight, and COMPASS-RT.</desc>
+  <rect width="960" height="250" rx="14" fill="#0b0d0c"/>
+  <rect x="0.5" y="0.5" width="959" height="249" rx="13.5" fill="none" stroke="#2a2f2b"/>
+  <path d="M0 38h960" stroke="#2a2f2b"/>
+  <circle cx="24" cy="19" r="4.5" fill="#ff6b5f"/>
+  <circle cx="40" cy="19" r="4.5" fill="#e9c48a"/>
+  <circle cx="56" cy="19" r="4.5" fill="#35d399"/>
+  <text x="80" y="23" fill="#8f867a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="0.08em">nyx@github:~</text>
+  <text x="880" y="23" fill="#5c564d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" text-anchor="end" letter-spacing="0.08em">SECURITY / PRODUCT</text>
+  <defs>
+    <clipPath id="typing">
+      <rect x="48" y="76" width="790" height="50">
+        <animate attributeName="width" values="790;790;0;790;790" keyTimes="0;0.25;0.27;0.65;1" dur="9s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <text x="48" y="112" fill="#f4f0e6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="28" font-weight="600" textLength="790" lengthAdjust="spacingAndGlyphs" clip-path="url(#typing)">I build systems that prove their own integrity.</text>
+  <rect x="838" y="82" width="3" height="34" fill="#00ff88">
+    <animate attributeName="x" values="838;838;48;838;838" keyTimes="0;0.25;0.27;0.65;1" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;0;1;0;1" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+  <text x="48" y="160" fill="#9b9488" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16">Django · FastAPI · React · C++ · Postgres</text>
+  <text x="48" y="202" fill="#00ff88" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="0.04em">Axiom / Oversight / COMPASS-RT</text>
+  <text x="912" y="202" fill="#5c564d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" text-anchor="end">open to security, product &amp; collaborations</text>
+</svg>
