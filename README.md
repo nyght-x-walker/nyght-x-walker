@@ -14,7 +14,7 @@
 
 I build systems that prove their own integrity — from threat model to interface to audit trail.
 
-[Portfolio](https://augustine-portfolio-two.vercel.app/2d) · [Email](mailto:s-01141@student.german-uds.de) · [GitHub](https://github.com/nyght-x-walker)
+[Portfolio](https://augustine-portfolio-two.vercel.app/2d) · [Public code](https://github.com/nyght-x-walker?tab=repositories) · [Email](mailto:s-01141@student.german-uds.de)
 
 **Currently building:** Axiom · Oversight · COMPASS-RT
 
@@ -100,4 +100,4 @@ Led the LMS Converter team through architecture and delivery; the work was accep
 
 ## Contact
 
-[Portfolio](https://augustine-portfolio-two.vercel.app/2d) · [Email](mailto:s-01141@student.german-uds.de) · [GitHub](https://github.com/nyght-x-walker)
+[Portfolio](https://augustine-portfolio-two.vercel.app/2d) · [Public code](https://github.com/nyght-x-walker?tab=repositories) · [Email](mailto:s-01141@student.german-uds.de)
