@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="250" viewBox="0 0 960 250" role="img" aria-labelledby="title desc">
-  <title id="title">Nyx — security engineer and product builder</title>
-  <desc id="desc">A terminal card typing: I build systems that prove their own integrity. Security stack: Splunk SIEM, Suricata, Wazuh, Burp Suite, Nmap, Nuclei, Wireshark, Metasploit, ClamAV. Identity: OIDC/SSO, TOTP MFA, RBAC. Frameworks: MITRE ATT&amp;CK, OWASP LLM 2026, LLM red-teaming, GDPR/CCPA, NIST 800-53/61, ISO 27001. Engineering: Python, TypeScript, C++, Django, FastAPI, React/Next.js, PostgreSQL, Docker, AWS/Azure/GCP. Currently building Axiom, Oversight, and COMPASS-RT.</desc>
+  <title id="title">Nyx — Computer Engineering graduate and MSc Cybersecurity student</title>
+  <desc id="desc">A terminal card typing: I am a Computer Engineering graduate and MSc Cybersecurity student. I’m driven by curiosity about why security works the way it does, how systems fail, and how we can build a better, more secure future. Security stack: Splunk SIEM, Suricata, Wazuh, Burp Suite, Nmap, Nuclei, Wireshark, Metasploit, ClamAV. Identity: OIDC/SSO, TOTP MFA, RBAC. Frameworks: MITRE ATT&amp;CK, OWASP LLM 2026, LLM red-teaming, GDPR/CCPA, NIST 800-53/61, ISO 27001. Engineering: Python, TypeScript, C++, Django, FastAPI, React/Next.js, PostgreSQL, Docker, AWS/Azure/GCP. Currently building Axiom, Oversight, and COMPASS-RT.</desc>
   <rect width="960" height="250" rx="14" fill="#f7f1e6"/>
   <rect x="0.5" y="0.5" width="959" height="249" rx="13.5" fill="none" stroke="#12110f"/>
   <path d="M0 38h960" stroke="#12110f" stroke-opacity="0.18"/>
@@ -16,7 +16,7 @@
       </rect>
     </clipPath>
   </defs>
-  <text x="48" y="112" fill="#12110f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="28" font-weight="600" textLength="790" lengthAdjust="spacingAndGlyphs" clip-path="url(#typing)">I build systems that prove their own integrity.</text>
+  <text x="48" y="112" fill="#12110f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="28" font-weight="600" textLength="790" lengthAdjust="spacingAndGlyphs" clip-path="url(#typing)">Curious about why security works the way it does.</text>
   <rect x="838" y="82" width="3" height="34" fill="#008f4c">
     <animate attributeName="x" values="838;838;48;838;838" keyTimes="0;0.25;0.27;0.65;1" dur="9s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="1;1;0;1;0;1" dur="0.9s" repeatCount="indefinite"/>

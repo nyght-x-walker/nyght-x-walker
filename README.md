@@ -4,15 +4,13 @@
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/nyght-x-walker/nyght-x-walker/main/assets/hero-static.svg">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nyght-x-walker/nyght-x-walker/main/assets/hero-dark.svg">
-    <img src="https://raw.githubusercontent.com/nyght-x-walker/nyght-x-walker/main/assets/hero-light.svg" alt="Nyx — security engineer and product builder. I build systems that prove their own integrity. AI red-teaming, security tooling, and product engineering." width="960">
+    <img src="https://raw.githubusercontent.com/nyght-x-walker/nyght-x-walker/main/assets/hero-light.svg" alt="Nyx — Computer Engineering graduate and MSc Cybersecurity student. Curious about why security works, how systems fail, and how to build a more secure future. Security engineering, AI red-teaming, and software projects." width="960">
   </picture>
 </a>
 
 ### Nyx
 
-**Security engineer / product builder · M.Sc. Cybersecurity candidate**
-
-I build systems that prove their own integrity — from threat model to interface to audit trail.
+I am a Computer Engineering graduate and MSc Cybersecurity student. I’m driven by curiosity about why security works the way it does, how systems fail, and how we can build a better, more secure future.
 
 [Portfolio](https://augustine-portfolio-two.vercel.app/2d) · [Case studies](https://github.com/nyght-x-walker/case-studies) · [Public code](https://github.com/nyght-x-walker?tab=repositories) · [Email](mailto:s-01141@student.german-uds.de)
 
