@@ -4,13 +4,13 @@
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/nyght-x-walker/nyght-x-walker/main/assets/hero-static.svg">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nyght-x-walker/nyght-x-walker/main/assets/hero-dark.svg">
-    <img src="https://raw.githubusercontent.com/nyght-x-walker/nyght-x-walker/main/assets/hero-light.svg" alt="Nyx — security engineer and product builder. I build systems that prove their own integrity." width="960">
+    <img src="https://raw.githubusercontent.com/nyght-x-walker/nyght-x-walker/main/assets/hero-light.svg" alt="Nyx — security engineer and product builder. I build systems that prove their own integrity. AI red-teaming, security tooling, and product engineering." width="960">
   </picture>
 </a>
 
 ### Nyx
 
-**Security engineer / product builder**
+**Security engineer / product builder · M.Sc. Cybersecurity candidate**
 
 I build systems that prove their own integrity — from threat model to interface to audit trail.
 
@@ -46,7 +46,7 @@ I build systems that prove their own integrity — from threat model to interfac
 <a href="https://augustine-portfolio-two.vercel.app/2d"><img src="https://raw.githubusercontent.com/nyght-x-walker/nyght-x-walker/main/assets/compass.webp" alt="COMPASS-RT dashboard with run totals, attack success rate, and coverage gaps" width="100%"></a>
 <h3>COMPASS-RT</h3>
 <strong>LLM red-teaming with replayable evidence, SARIF output, and CI gates.</strong><br>
-<code>Python</code> <code>FastAPI</code> <code>HTMX</code> <code>OWASP LLM</code><br>
+<code>Python</code> <code>FastAPI</code> <code>HTMX</code> <code>OWASP LLM 2026</code><br>
 <a href="https://github.com/nyght-x-walker/case-studies/blob/main/compass-rt.md">Case study</a> · <a href="https://github.com/nyght-x-walker/compass-sarif">SARIF exporter</a>
 </td>
 <td width="50%" valign="top">
@@ -64,13 +64,39 @@ I build systems that prove their own integrity — from threat model to interfac
 ## What I do
 
 ### Security engineering
-Threat modeling · detection engineering · AI red-teaming · AppSec · identity & access · cryptography · audit trails
+Threat modeling · detection engineering · AppSec · identity & access · cryptography · audit trails
+
+### AI security
+LLM red-teaming · prompt injection · agentic & multi-turn attacks · OWASP LLM 2026 · replayable evidence · SARIF/CI gates
 
 ### Product engineering
-Python · TypeScript · React 19 · Next.js · Django · FastAPI · PostgreSQL · Prisma / SQLAlchemy
+Python · TypeScript · React 19 · Next.js · Django · FastAPI · PostgreSQL · Prisma / SQLAlchemy · AI SDK
 
 ### Systems & delivery
-Linux · Docker · cloud deployment · CI gates · observability · backups · restore drills · release engineering · developer tooling · technical writing
+Linux · Docker · AWS / Azure / GCP · cloud deployment · CI gates · observability · backups · restore drills · release engineering · developer tooling · technical writing
+
+---
+
+## Security stack
+
+**Hands-on:** Splunk SIEM · Suricata · Wazuh · Burp Suite · Nmap · Nuclei · Wireshark · Metasploit · ClamAV · OIDC/SSO · TOTP MFA · RBAC · AES-256-GCM · Ed25519
+
+**Frameworks & compliance:** MITRE ATT&CK · OWASP LLM 2026 · NIST 800-53 · NIST 800-61 · ISO 27001 · GDPR/CCPA
+
+**Coursework & labs:** AWS · Azure · GCP · cloud service/deployment models · big data
+
+**Currently learning:** PAM · EDR/XDR · CNAPP/CSPM · SOAR · TIP/MISP · vulnerability management · API security · email security (DMARC/SPF/DKIM) · DLP · NDR
+
+---
+
+## Education & certifications
+
+- **M.Sc. Cybersecurity** — German University of Digital Science (2026–present)
+- **B.Tech Electrical & Electronics Engineering (Computer), First Class Honours** — Sunyani Technical University (2024)
+- **Google Cybersecurity Professional Certificate** — Coursera (2025)
+- **GUDS Micro-Degrees** — Cybersecurity Fundamentals (86%) · Coding Camp I: Fundamentals (95%)
+
+Relevant coursework: cloud & big data (AWS, Azure, GCP, service/deployment models), cybersecurity fundamentals, software security.
 
 ---
 
@@ -98,8 +124,8 @@ Case studies for Axiom, Oversight, COMPASS-RT, and Auf Deutsch include architect
 
 ## Currently
 
-- Building **Axiom**, **Oversight**, and **COMPASS-RT**.
-- Open to security engineering, product engineering, and selected collaborations.
+- Pursuing **M.Sc. Cybersecurity** at GUDS; building **Axiom**, **Oversight**, and **COMPASS-RT**.
+- Open to security engineering, AI security, product engineering, and selected collaborations.
 - Some systems are private; case studies and walkthroughs are available on request.
 
 ## Contact

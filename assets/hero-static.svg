@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="250" viewBox="0 0 960 250" role="img" aria-labelledby="title desc">
   <title id="title">Nyx — security engineer and product builder</title>
-  <desc id="desc">A terminal card reading: I build systems that prove their own integrity. Python, TypeScript, C++, Django, FastAPI, React/Next.js, PostgreSQL, Docker, Cloud. Currently building Axiom, Oversight, and COMPASS-RT.</desc>
+  <desc id="desc">A terminal card reading: I build systems that prove their own integrity. Security stack: Splunk SIEM, Suricata, Wazuh, Burp Suite, Nmap, Nuclei, Wireshark, Metasploit, ClamAV. Identity: OIDC/SSO, TOTP MFA, RBAC. Frameworks: MITRE ATT&amp;CK, OWASP LLM 2026, LLM red-teaming, GDPR/CCPA, NIST 800-53/61, ISO 27001. Engineering: Python, TypeScript, C++, Django, FastAPI, React/Next.js, PostgreSQL, Docker, AWS/Azure/GCP. Currently building Axiom, Oversight, and COMPASS-RT.</desc>
   <rect width="960" height="250" rx="14" fill="#0b0d0c"/>
   <rect x="0.5" y="0.5" width="959" height="249" rx="13.5" fill="none" stroke="#2a2f2b"/>
   <path d="M0 38h960" stroke="#2a2f2b"/>
@@ -11,7 +11,10 @@
   <text x="880" y="23" fill="#5c564d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" text-anchor="end" letter-spacing="0.08em">SECURITY / PRODUCT</text>
   <text x="48" y="112" fill="#f4f0e6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="28" font-weight="600" textLength="790" lengthAdjust="spacingAndGlyphs">I build systems that prove their own integrity.</text>
   <rect x="841" y="82" width="3" height="34" fill="#00ff88"/>
-  <text x="48" y="160" fill="#9b9488" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16">Python · TypeScript · C++ · Django · FastAPI · React/Next.js · PostgreSQL · Docker · Cloud</text>
-  <text x="48" y="202" fill="#00ff88" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="0.04em">Axiom / Oversight / COMPASS-RT</text>
-  <text x="912" y="202" fill="#5c564d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" text-anchor="end">open to security, product &amp; collaborations</text>
+  <text x="48" y="152" fill="#9b9488" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15">Splunk SIEM · Suricata · Wazuh · Burp Suite · Nmap · Nuclei · Wireshark · Metasploit · ClamAV</text>
+  <text x="48" y="170" fill="#9b9488" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15">OIDC/SSO · TOTP MFA · RBAC · MITRE ATT&amp;CK · OWASP LLM 2026 · LLM red-teaming</text>
+  <text x="48" y="188" fill="#9b9488" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15">GDPR/CCPA · NIST 800-53/61 · ISO 27001</text>
+  <text x="48" y="206" fill="#9b9488" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15">Python · TypeScript · C++ · Django · FastAPI · React/Next.js · PostgreSQL · Docker · AWS/Azure/GCP</text>
+  <text x="48" y="226" fill="#00ff88" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="0.04em">Axiom / Oversight / COMPASS-RT</text>
+  <text x="912" y="226" fill="#5c564d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" text-anchor="end">open to security, product &amp; collaborations</text>
 </svg>
