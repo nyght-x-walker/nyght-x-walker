@@ -70,7 +70,7 @@ Threat modeling · detection engineering · AI red-teaming · AppSec · identity
 Python · TypeScript · React 19 · Next.js · Django · FastAPI · PostgreSQL · Prisma / SQLAlchemy
 
 ### Systems & delivery
-Linux · Docker · CI gates · observability · backups · restore drills · release engineering · developer tooling · technical writing
+Linux · Docker · cloud deployment · CI gates · observability · backups · restore drills · release engineering · developer tooling · technical writing
 
 ---
 
